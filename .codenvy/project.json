@@ -1,0 +1,1 @@
+{"runners":{"configs":{},"default":"system:/java/standalone/simple/cli"},"mixinTypes":["git"],"builders":{"configs":{},"default":"maven"},"description":"A simple JAR project based on Maven.","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
